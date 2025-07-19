@@ -1,46 +1,158 @@
-# parcelcube-use-cases
-Use case examples and product comparisons for Parcelcube dimensioning and weighing systems.
-# Parcelcube Use Cases
+<h2>📦 Parcelcube Measurement Device Buying Guide</h2>
+<table>
+<thead>
+<tr>
+  <th>Feature</th>
+  <th>Parcelcube Vision</th>
+  <th>Parcelcube 1000</th>
+  <th>Parcelcube 900XL</th>
+  <th>Parcelcube 900</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>Maximum weight of weighed products: 40 kg</td>
+  <td>✓</td>
+  <td>✓</td>
+  <td>✓</td>
+  <td>✓</td>
+</tr>
+<tr>
+  <td>Maximum weight of weighed products: 55 kg</td>
+  <td>–</td>
+  <td>–</td>
+  <td>✓</td>
+  <td>✓</td>
+</tr>
+<tr>
+  <td>Maximum dimensions of measured products: 62 x 62 x 62 cm</td>
+  <td>✓</td>
+  <td>✓</td>
+  <td>✓</td>
+  <td>✓</td>
+</tr>
+<tr>
+  <td>Maximum dimensions of measured products: 62 x 62 x 94 cm</td>
+  <td>–</td>
+  <td>✓</td>
+  <td>✓</td>
+  <td>✓</td>
+</tr>
+<tr>
+  <td>Maximum dimensions of measured products: 82 x 82 x 94 cm</td>
+  <td>–</td>
+  <td>–</td>
+  <td>✓</td>
+  <td>–</td>
+</tr>
+<tr>
+  <td>Maximum dimensions of measured products: 100 x 64 x 100 cm</td>
+  <td>–</td>
+  <td>✓</td>
+  <td>–</td>
+  <td>–</td>
+</tr>
+<tr>
+  <td>Manual data entry for oversized and/or overweight items</td>
+  <td>✓</td>
+  <td>✓</td>
+  <td>✓</td>
+  <td>✓</td>
+</tr>
+<tr>
+  <td>Measured products mostly regularly shaped</td>
+  <td>✓</td>
+  <td>✓</td>
+  <td>✓</td>
+  <td>✓</td>
+</tr>
+<tr>
+  <td>Measured products mostly irregularly shaped</td>
+  <td>✓</td>
+  <td>✓ With support stands</td>
+  <td>✓ With support stands</td>
+  <td>✓ With support stands</td>
+</tr>
+<tr>
+  <td>Measured products are extremely thin</td>
+  <td>✓</td>
+  <td>–</td>
+  <td>–</td>
+  <td>–</td>
+</tr>
+<tr>
+  <td>Device operates under even lighting conditions</td>
+  <td>✓</td>
+  <td>✓</td>
+  <td>✓</td>
+  <td>✓</td>
+</tr>
+<tr>
+  <td>Device operates under uneven lighting conditions</td>
+  <td>–</td>
+  <td>✓</td>
+  <td>✓</td>
+  <td>✓</td>
+</tr>
+<tr>
+  <td>Device operates as a standalone measurement unit</td>
+  <td>✓</td>
+  <td>✓</td>
+  <td>✓</td>
+  <td>✓</td>
+</tr>
+<tr>
+  <td>Device integrates into ERP, TMS or WMS systems</td>
+  <td>✓</td>
+  <td>✓</td>
+  <td>✓</td>
+  <td>✓</td>
+</tr>
+<tr>
+  <td>Measurement locations vary</td>
+  <td>Accessory Mobile Cart</td>
+  <td>Accessory Mobile Cart</td>
+  <td>Accessory Mobile Cart</td>
+  <td>Accessory Mobile Cart</td>
+</tr>
+<tr>
+  <td>Power is available at measurement locations</td>
+  <td>✓</td>
+  <td>✓ Not needed</td>
+  <td>✓</td>
+  <td>✓</td>
+</tr>
+<tr>
+  <td>Power is not available at measurement locations</td>
+  <td>Accessory Mobile Cart + PowerBox</td>
+  <td>✓</td>
+  <td>Accessory Mobile Cart + PowerBox</td>
+  <td>Accessory Mobile Cart + PowerBox</td>
+</tr>
+<tr>
+  <td>Device integrates into e-commerce platforms</td>
+  <td>✓</td>
+  <td>✓</td>
+  <td>✓</td>
+  <td>✓</td>
+</tr>
+<tr>
+  <td></td>
+  <td>Parcelcube Vision</td>
+  <td>Parcelcube 1000</td>
+  <td>Parcelcube 900XL</td>
+  <td>Parcelcube 900</td>
+</tr>
+</tbody>
+</table>
 
-Practical guidance for selecting the right **Parcelcube** dimensioning and weighing system based on real-world needs.
+<p><strong>🔗 Product Links:</strong></p>
+<ul>
+  <li><a href="https://parcelcube.com/product/parcelcube-vision/" target="_blank">Parcelcube Vision</a></li>
+  <li><a href="https://parcelcube.com/product/parcelcube-1000/" target="_blank">Parcelcube 1000</a></li>
+  <li><a href="https://parcelcube.com/product/parcelcube-900xl/" target="_blank">Parcelcube 900XL</a></li>
+  <li><a href="https://parcelcube.com/product/parcelcube-900/" target="_blank">Parcelcube 900</a></li>
+</ul>
 
----
-
-## 📦 Product Comparison
-
-| Model             | Sensor Type              | Min Dimensions (cm) | Max Dimensions (cm) | Weight Range     | Speed     |
-|------------------|--------------------------|----------------------|----------------------|------------------|-----------|
-| **Parcelcube 900**     | Ultrasonic + 4 load sensors  | 4 × 4 × 2              | 62 × 62 × 94             | 0.05–55 kg       | < 1 sec   |
-| **Parcelcube 900 XL**  | Ultrasonic + 4 load sensors  | 4 × 4 × 2              | 82 × 82 × 94             | 0.05–55 kg       | < 1 sec   |
-| **Parcelcube 1000**    | Laser + 4 load sensors       | 2 × 2 × 2              | 100 × 64 × 100           | 0.01–40 kg       | < 1 sec   |
-| **Parcelcube Vision**  | 3D Camera + 4 load sensors   | 3 × 3 × 0.2            | 62 × 62 × 62             | 0.05–40 kg       | < 0.5 sec |
-
-> Note: Parcelcube Vision performs best in stable warehouse lighting conditions. It is **not recommended** for use in areas with variable lighting.
-
----
-
-## ✅ Use Case Recommendations
-
-| Situation / Requirement                        | Recommended Model     |
-|------------------------------------------------|------------------------|
-| Standard parcels in typical warehouse usage    | **Parcelcube 900**     |
-| Larger parcel range, similar use case          | **Parcelcube 900 XL**  |
-| Higher precision and wider measurement range   | **Parcelcube 1000**    |
-| Thin, irregularly shaped items (e.g. tubes)    | **Parcelcube Vision**  |
-
----
-
-## 🔗 Product Links
-
-- [Parcelcube 900](https://parcelcube.com/product/parcelcube-900/)
-- [Parcelcube 900 XL](https://parcelcube.com/product/parcelcube-900xl/)
-- [Parcelcube 1000](https://parcelcube.com/product/parcelcube-1000/)
-- [Parcelcube Vision](https://parcelcube.com/product/parcelcube-vision/)
-
----
-
-## 🛠️ About Parcelcube
-
-Parcelcube is a dimensioning and weighing system designed in Finland and used in 40+ countries across logistics, warehousing, e-commerce and industrial sectors.
-
-Learn more at [parcelcube.com](https://parcelcube.com)
+<p><em>Please note that if none of the listed options meets your needs, we also offer customized measurement device solutions.
+Kindly contact us to ensure that the selected accessory is the best fit for your requirements.</em></p>
